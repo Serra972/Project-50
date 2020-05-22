@@ -1,0 +1,73 @@
+h1{
+    color:white
+}
+*{
+    border:black
+}
+
+.heading{
+    background-color: black;
+    display:flex;
+    justify-content:center;
+}
+
+h2{
+    color:white;
+}
+*{
+    border:solid;
+}
+
+.items{
+    background-color: black;
+    display:flex;
+    justify-content:center;
+}
+.it{
+    background-color: crimson;
+    display:flex;
+    justify-content: center;
+}
+
+.class{
+    background-color: indigo;
+    display:flex;
+    justify-content: center;
+}
+
+.item{
+    background-color: brown;
+    display:flex;
+    justify-content:center;
+
+}
+
+.logo{
+    background-color: black;
+    
+}
+
+.addmission{
+    background-color: black;
+    display:flex;
+    justify-content: center;
+}
+h3{
+    color:black;
+}
+*{
+    border:solid;
+}
+
+.teachers{
+    background-color: orangered;
+
+}
+*h1{
+    color:black;
+}
+
+.facilities{
+    background-color: hotpink;
+    
+}
